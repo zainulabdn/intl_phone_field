@@ -4928,8 +4928,8 @@ const List<Country> countries = [
     flag: "🇳🇬",
     code: "NG",
     dialCode: "234",
-    minLength: 8,
-    maxLength: 8,
+    minLength: 10,
+    maxLength: 10,
   ),
   Country(
     name: "Niue",
