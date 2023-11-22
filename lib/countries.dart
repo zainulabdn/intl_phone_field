@@ -4929,7 +4929,7 @@ const List<Country> countries = [
     code: "NG",
     dialCode: "234",
     minLength: 10,
-    maxLength: 11,
+    maxLength: 10,
   ),
   Country(
     name: "Niue",
